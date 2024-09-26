@@ -38,10 +38,12 @@ export const ShareLinks: FC<ShareLinks> = ({
   };
 
   return (
-    <div className="mt-[50px] flex flex-col justify-between sm:flex-row">
-      <div className="flex flex-col items-center sm:items-start sm:ps-7">
-        <p className="text-[16px] leading-[20px] text-darkPink">{title}</p>
-        <div className="mt-[20px] flex flex-row gap-3 sm:gap-7">
+    <div className="mt-4 flex flex-row flex-wrap justify-between md:mt-[50px]">
+      <div className="flex flex-col sm:items-start sm:ps-7 md:items-center">
+        <p className="text-[8px] leading-[20px] text-darkPink md:text-[16px]">
+          {title}
+        </p>
+        <div className="mt-2 flex flex-row gap-4 sm:gap-7 md:mt-[20px]">
           <TwitterShareButton
             url={"pupkultura.lv"}
             className="w-[20px] sm:w-[25px]"
@@ -88,16 +90,16 @@ export const ShareLinks: FC<ShareLinks> = ({
         </div>
       </div>
 
-      <div className="relative mt-[30px] sm:mt-0">
-        <div className="flex flex-row items-center justify-between gap-5 rounded-[30px] bg-[#ffd4f4] py-1 pe-[5px] ps-[24px]">
-          <p className="font-openSans text-[16px] text-darkPink">
+      <div className="relative mt-6 sm:mt-0 md:mt-[30px]">
+        <div className="flex flex-row items-center justify-between gap-5 rounded-[15px] bg-[#ffd4f4] py-1 pe-[5px] ps-4 md:rounded-[30px] md:ps-[24px]">
+          <p className="font-openSans text-[8px] text-darkPink md:text-[16px]">
             www.youtu.be/wb435...
           </p>
           <button
             onClick={() => {
               copyToClipboard(shareLink);
             }}
-            className="rounded-[30px] border-[1px] bg-primaryLight px-[12px] py-[9px] font-openSans font-[600] capitalize text-darkPink transition duration-300 ease-in-out hover:bg-darkPink hover:text-primaryLight sm:ms-[23px] sm:px-[24px]"
+            className="rounded-[30px] border-[1px] bg-primaryLight px-2 py-1 font-openSans text-[8px] font-[600] capitalize text-darkPink transition duration-300 ease-in-out hover:bg-darkPink hover:text-primaryLight sm:ms-[23px] sm:px-[24px] md:px-[12px] md:py-[9px] md:text-[16px]"
           >
             {copyBtnText}
           </button>

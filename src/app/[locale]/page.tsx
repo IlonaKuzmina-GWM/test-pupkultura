@@ -1,6 +1,6 @@
 import { HeroSection } from "../components/heroSection/HeroSection";
 import { VideoSection } from "../components/videoSection/VideoSection";
-import { PurchaseSection } from "../components/PurchaseSection";
+
 import { CloudsSection } from "../components/cloudsSection/CloudsSection";
 import { Clouds } from "../components/Clouds";
 import { Partners } from "../components/Partners";
@@ -8,6 +8,7 @@ import ImportantSection from "../components/ImportantSection";
 import FurtherSection from "../components/FurtherSection";
 import FactorsSection from "../components/factorsSection/FactorsSection";
 import Image from "next/image";
+import { PurchaseSection } from "../components/purchaseSection/PurchaseSection";
 
 export default function Home({}: any) {
   return (
