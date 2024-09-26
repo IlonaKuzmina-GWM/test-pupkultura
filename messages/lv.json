@@ -60,11 +60,11 @@
     "secondItem": {
       "title": "Mamogrāfija",
       "content": "Ja tev ir vairāk par 40 gadiem, ārsts droši vien sūtīs uz mamogrāfiju. Šajā metodē tiek izmantoti zemas intensitātes rentgena stari, lai atklātu agrīnas krūts vēža pazīmes un citas krūts slimības.",
-      "contentTwo": "Mamogrāfija ar tomosintēzi – precīzākais krūšu veselības diagnostikas veids mūsdienās, kas ļauj speciālistiem redzēt daudz sīkākas struktūras."
+      "contentTwo": "Mamogrāfija ar tomosintēzi – precīzākais krūšu veselības diagnostikas veids mūsdienās, kas ļauj speciālistiem redzēt daudz sīkākas struktūras."
     },
     "thirdItem": {
       "title": "Valsts apaksāts krūts vēža skrīnings",
-      "content": "Latvijā tiek organizētas valsts apmaksātas profilaktiskās pārbaudes, kuru ietvaros sievietes vecumā no 50 līdz 68 gadiem reizi divos gados tiek aicinātas veikt bezmaksas krūts vēža skrīningu – mamogrāfiju. Šīs pārbaudes veikšanai tiek nosūtītas uzaicinājuma vēstules uz e-adresi portālā www.latvija.gov.lv, bet, ja e-adrese nav izveidota, tad uzaicinājuma vēstule tiek nosūtīta pa pastu uz deklarēto dzīvesvietas adresi.",
+      "content": "Latvijā tiek organizētas valsts apmaksātas profilaktiskās pārbaudes, kuru ietvaros sievietes vecumā no 50 līdz 68 gadiem reizi divos gados tiek aicinātas veikt bezmaksas krūts vēža skrīningu – mamogrāfiju. Šīs pārbaudes veikšanai tiek nosūtītas uzaicinājuma vēstules uz e-adresi portālā www.latvija.gov.lv, bet, ja e-adrese nav izveidota, tad uzaicinājuma vēstule tiek nosūtīta pa pastu uz deklarēto dzīvesvietas adresi.",
       "smallTitle": "Kas jādara pēc uzaicinājuma?",
       "smallContent": "Lai veiktu valsts apmaksātu krūšu profilaktisko pārbaudi, nepieciešams izvēlēties ārstniecības iestādi un pierakstīties uz mamogrāfiju. Tiek nodrošināti arī valsts apmaksāti mobilā digitālā mamogrāfa izbraukumi dažādās Latvijas vietās.",
       "btn": "Uzzināt vairāk"
@@ -99,7 +99,7 @@
     },
     "secondCloud": {
       "title": "Vecums",
-      "description": "Pēc 50 gadu vecuma krūts vēža attīstības risks palielinās."
+      "description": "Pēc 50 gadu vecuma krūts vēža attīstības risks palielinās."
     },
     "thirdCloud": {
       "title": "Ģenētika",
