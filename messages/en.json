@@ -1,0 +1,141 @@
+{
+  "Index": {
+    "heroElement": "hero-element-eng.svg"
+  },
+  "Purchase": {
+    "description": "Every year in Latvia, around 450 women die from breast cancer. Donate to support women affected by breast cancer!",
+    "donateBtn": "Donate",
+    "donateClasses": {
+      "economic": {
+        "title": "Economy class",
+        "price": "4",
+        "link": "https://donate.stripe.com/fZefZU53fcRwfEQ8ww"
+      },
+      "business": {
+        "title": "Business class",
+        "price": "9",
+        "link": "https://buy.stripe.com/28o2947bn04KgIU289"
+      },
+      "vip": {
+        "title": "First class",
+        "price": "29",
+        "link": "https://buy.stripe.com/fZeaFAbrD9Fk50cbIK"
+      },
+      "other": {
+        "title": "Other amount",
+        "price": "x",
+        "link": "https://buy.stripe.com/14kaFA67jbNs78k4gj"
+      }
+    }
+  },
+  "Video": {
+    "title": "Breast health is in your hands.",
+    "title2": "Learn how to perform a breast self-exam!",
+    "ergoCloud": {
+      "title": "Pink insurance from",
+      "btn_title": "Learn more"
+    },
+    "shareText": "Share this video on social media:",
+    "copy": "Copy",
+    "copied": "Copied successfully!",
+    "videoLink": "https://www.youtube.com/watch?v=VGj5MzjeMTI"
+  },
+  "Important": {
+    "cloud": {
+      "title": "Svarīgi!",
+      "description": " Pašpārbaudi vislabāk veikt no 5. līdz 10. menstruālā cikla dienai, skaitot no mēnešreižu pirmās dienas. Atceries - krūšu pašpārbaude neaizstāj regulārus ārsta apmeklējumus."
+    },
+    "listSection": {
+      "title": "Pie ārsta jāiet, ja:",
+      "list": "<ul><li>Krūtī sataustāms bumbulītis vai sabiezējums</li><li>Jūtamas sāpes</li><li>Novērotas pēkšņas krūts formas vai lieluma izmaiņas</li><li>Pēkšņi ievilkts krūtsgals</li><li>Ievilkta vai saspiesta krūts āda</li><li>Novēroti izdalījumi no krūtsgala</li><li>Ir ilgstoša brūcīte vai krevele uz krūtsgala</li><li>Krūts ir apsārtusi vai pietūkusi</li></ul>"
+    }
+  },
+  "Further": {
+    "title": "Un ko tālāk?",
+    "firstItem": {
+      "title": "Ultrasonogrāfija",
+      "content": "Ja tev ir zem 40 gadiem, ārsts visticamāk liks taisīt ultrasonogrāfiju. Tā ir izmeklēšanas metode, kurā ar augstfrekvences skaņas viļņu palīdzību tiek veidots krūšu iekšējās struktūras attēls. Parasti šī metode tiek izmantota gadījumos, ja krūšu dziedzeri ir blīvāki un tvirtāki."
+    },
+    "secondItem": {
+      "title": "Mamogrāfija",
+      "content": "Ja tev ir virs 40 gadiem, ārsts droši sūtīs uz mamogrāfiju. Šajā metodē tiek izmantoti zemas intensitātes rentgena stari, lai atklātu agrīnas krūts vēža pazīmes un citas krūts slimības.",
+      "contentTwo": "Mamogrāfija ar tomosintēzi – precīzākais krūšu veselības diagnostikas veids mūsdienās, kas ļauj speciālistiem redzēt daudz sīkākas struktūras."
+    },
+    "thirdItem": {
+      "title": "Valsts apaksāts krūts vēža skrīnings",
+      "content": "Latvijā tiek organizētas valsts apmaksātas profilaktiskās pārbaudes, kuru ietvaros sievietes vecumā no 50 līdz 68 gadiem reizi divos gados tiek aicinātas veikt bezmaksas krūts vēža skrīningu - mamogrāfiju. Šīs pārbaudes veikšanai tiek nosūtītas uzaicinājuma vēstules uz e-adresi portālā www.latvija.gov.lv, bet, ja e-adrese nav izveidota, tad uzaicinājuma vēstule tiek nosūtīta pa pastu uz deklarēto dzīvesvietas adresi.",
+      "smallTitle": "Ko darīt pēc uzaicinājuma?",
+      "smallContent": "Lai veiktu valsts apmaksātu krūšu profilaktisko pārbaudi, nepieciešams izvēlēties ārstniecības iestādi un veikt pierakstu. Tiek nodrošināti arī valsts apmaksāti mobilā digitālā mamogrāfa izbraukumi dažādās Latvijas teritorijās.",
+      "btn": "Uzzināt vairāk"
+    }
+  },
+  "Factors": {
+    "title": "Kā mazināt krūts vēža riska faktorus?",
+    "oneItem": {
+      "title": "Pietiekams miegs (8h)"
+    },
+    "twoItem": {
+      "title": "Veselīgs uzturs"
+    },
+    "threeItem": {
+      "title": "Sportošana 3x nedēļā"
+    },
+    "forItem": {
+      "title": "Veselīgs svars"
+    },
+    "fiveItem": {
+      "title": "Smēķēšanai NĒ!"
+    },
+    "sixItem": {
+      "title": "Alkoholam NĒ!"
+    }
+  },
+  "Clouds": {
+    "title": "Bioloģiskie faktori",
+    "firstCloud": {
+      "title": "Dzimums",
+      "description": "Lai gan vīriešiem arī var būt krūts vēzis, sievietēm to atklāj 100 reizes biežāk"
+    },
+    "secondCloud": {
+      "title": "Vecums",
+      "description": "Pēc 50 gadu vecuma, krūts vēža attīstības risks palielinās."
+    },
+    "thirdCloud": {
+      "title": "Ģenētika",
+      "description": "Risks ir ievērojami augstāks, ja ar krūts vēzi ir slimojušas tuvas radinieces"
+    }
+  },
+  "Footer": {
+    "organizator": "The campaign is organized by the charity foundation 'Rozā vilciens' together with the creative agency 'McCann Riga'. The purpose of the charitable foundation is to provide support to women affected by breast cancer.",
+    "aditionalInformation": {
+      "contacts": {
+        "title": "Contacts",
+        "phone": "+371 26338398",
+        "email": "rozavilciens@gmail.com"
+      },
+      "address": {
+        "title": "Address",
+        "content": "'Sucas', Sējas pag., Saulkrastu novads, LV-2142"
+      },
+      "requisites": {
+        "title": "Requisites",
+        "content": "Rozā vilciena labdarības fonds Vienotais reģistrācijas nr. 40008231744"
+      },
+      "bankAcount": {
+        "title": "Bank acount",
+        "content": {
+          "bankName": "Luminor Bank AS",
+          "acountNumber": "Konta numurs: LV96RIKO0000084371014",
+          "swift": "SWIFT: RIKOLV2X"
+        }
+      }
+    }
+  },
+  "Partners": {
+    "titleOne": "Ģenerālsponsors",
+    "titleTwo": "Sponsori",
+    "titleThree": "Mediju partneris",
+    "titleFor": "Televīzijas partneris",
+    "titleFive": "Kampaņas atbalstītāji"
+  }
+}
